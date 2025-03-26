@@ -49,3 +49,12 @@ The system leverages **game metadata, user ratings, and cosine similarity** to g
 - Merges both models using **weighted scores**:
   ```python
   Hybrid Score = (0.7 * CBF Score) + (0.3 * CF Score)
+---
+
+<p>You can access the app using this link:</p>
+<a href="https://your-streamlit-app-link" target="_blank">
+    <button style="background-color:#4CAF50; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
+        Games Recommender System
+    </button>
+</a>
+
